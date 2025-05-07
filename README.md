@@ -14,7 +14,7 @@ A decentralized application (DApp) for transparent and secure ration distributio
 
 ## 📁 Project Structure
 
-```
+
 ration-dapp/
 │
 ├── frontend/      # React app (user interface)
