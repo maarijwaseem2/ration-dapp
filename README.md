@@ -90,7 +90,7 @@ npm run start:dev
 
 ```bash
 cd ../frontend
-npm start
+npm run dev
 ```
 
 ## 🦊 MetaMask Setup
