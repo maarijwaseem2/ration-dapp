@@ -1,10 +1,3 @@
-Bilkul bhai!  
-Yeh raha **professional aur simple README.md**  
-jo tum apne GitHub repo me use kar sakte ho.  
-Isme project ka introduction, features, setup steps, aur usage sab kuch hai.
-
----
-
 ```markdown
 # Ration DApp
 
